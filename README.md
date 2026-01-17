@@ -1,4 +1,4 @@
-# Project Title
+# Project Title : Credit Risk Predictor
 
 ## 1. Project Description / Overview
 
