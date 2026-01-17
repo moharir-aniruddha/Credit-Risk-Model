@@ -118,3 +118,6 @@ if st.button("🚀 Calculate Credit Risk"):
     col1.success(f"Default Probability\n\n{probability:.2%}")
     col2.info(f"Credit Score\n\n{credit_score}")
     col3.warning(f"Rating\n\n{rating}")
+
+st.markdown("---")
+st.caption("Developed by Aniruddha Moharir | Machine Learning project")
